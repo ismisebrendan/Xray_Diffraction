@@ -1,0 +1,17 @@
+Lattice constants
+
+NaCl - 5.628 angstrom
+LiF - 4.017 angstrom
+GaP - 5.4905 angstrom
+Si - 5.43072 angstrom
+
+
+NaCl, LiF:
+F W C Boswell 1951 Proc. Phys. Soc. A 64 465
+Doi: 10.1088/0370-1298/64/5/305
+
+GaP:
+"Properties of Solids," in \emph{CRC Handbook of Chemistry and Physics}, 95th ed, W. M. Haynes, Ed. CRC Press, 2016, p.12-81
+
+Si:
+"Properties of Solids," in \emph{CRC Handbook of Chemistry and Physics}, 95th ed, W. M. Haynes, Ed. CRC Press, 2016, p.12-80

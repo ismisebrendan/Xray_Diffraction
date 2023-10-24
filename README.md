@@ -1,5 +1,5 @@
 # Xray_Diffraction
-The code and original data for the x-ray diffraction experiment.
+The code, original data and produced graphs for the x-ray diffraction experiment.
 
 **Note:** when running the data and python scripts should be in the same folder, otherwise the python scripts should be altered to accommodate the folders in which they and the data are placed.
 

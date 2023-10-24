@@ -19,3 +19,5 @@ data shows the original data for the experiment. The files are labelled with the
 - gap_data_good_again.txt is the data from the second high resolution scan of the GaP(111) crystal.
 - gap_data_limited_angles_good.txt is the data from the high resolution unfiltered scans of GaP(111) over limited angle ranges.
 - gap_data_limited_angles_filtered.txt is the data from the high resolution filtered scans of GaP(111) over limited angle ranges.
+
+images has all the graphs produced by the python scripts in this experiment

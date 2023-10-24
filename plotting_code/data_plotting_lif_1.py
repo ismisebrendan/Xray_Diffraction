@@ -25,7 +25,7 @@ plt.plot(angle3, rate3, label='Scan 3')
 plt.plot(angle4, rate4, label='Scan 4')
 plt.plot(angle5, rate5, label='Scan 5')
 
-plt.title("Diffraction pattern for LiF (100) for all 5 measured orientations of the LiF mounted on the glass.")
+plt.title("Diffraction pattern for LiF(100) for all 5 measured orientations of the LiF mounted on the glass.")
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
 plt.legend()

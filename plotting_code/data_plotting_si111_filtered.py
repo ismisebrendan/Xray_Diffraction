@@ -15,7 +15,7 @@ plt.plot(angle, rate, label='Filtered scan')
 
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
-plt.title('Plot of the filtered high-resolution scan of Si (111)')
+plt.title('Plot of the filtered high-resolution scan of Si(111)')
 plt.legend()
 
 plt.show()

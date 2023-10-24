@@ -22,7 +22,7 @@ plt.plot(angle_good, rate_good, label='High-resolution scan')
 
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
-plt.title('Plot of the high-resolution scans both filtered and unfiltered of LiF (100)')
+plt.title('Plot of the high-resolution scans both filtered and unfiltered of LiF(100)')
 plt.legend()
 plt.show()
 

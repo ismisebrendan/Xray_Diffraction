@@ -22,7 +22,7 @@ plt.plot(angle2, rate2, label='Scan 2')
 plt.plot(angle3, rate3, label='Scan 3')
 plt.plot(angle4, rate4, label='Scan 4')
 
-plt.title("Diffraction pattern for GaP (111) for all 4 measured orientations of the GaP mounted on the glass.")
+plt.title("Diffraction pattern for GaP(111) for all 4 measured orientations of the GaP mounted on the glass.")
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
 plt.legend()

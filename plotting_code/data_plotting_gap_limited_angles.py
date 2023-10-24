@@ -34,7 +34,7 @@ plt.plot(angle_filtered21, rate_filtered21, label=r'21$^{\circ}$ ≤ $\beta$ ≤
 
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
-plt.title('Plot of the high-resolution scan of GaP (111) for the limited angles')
+plt.title('Plot of the high-resolution scan of GaP(111) for the limited angles')
 plt.legend()
 
 plt.show()

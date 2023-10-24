@@ -14,7 +14,7 @@ plt.plot(angle, rate, label='High-resolution scan')
 
 plt.xlabel(r'$\beta$ ($^{\circ}$)')
 plt.ylabel('R (s$^{-1}$)')
-plt.title('Plot of the high-resolution scan of GaP (111)')
+plt.title('Plot of the high-resolution scan of GaP(111)')
 plt.legend()
 
 plt.show()

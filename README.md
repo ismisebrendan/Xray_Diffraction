@@ -1,6 +1,8 @@
 # Xray_Diffraction
 The code, original data and produced graphs for the x-ray diffraction experiment.
 
+The report that I wrote for this lab is also included.
+
 **Note:** when running the data and python scripts should be in the same folder, otherwise the python scripts should be altered to accommodate the folders in which they and the data are placed.
 
 plotting_code contains the code used to plot the data and fit the peaks to Gaussian curves. The files are labelled with the specific crystal they were used to plot the data from and their specific function beyond that:
